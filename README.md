@@ -1,26 +1,21 @@
 # 👋 Hi, I’m Marcos Antonio Astudillo C. (He/Him)
 
-💻 Software Engineer | Full-Stack Developer | Node.js, React, TypeScript | Backend. Cloud Engineering & API Development
+💻 Software Engineer | Full-Stack Developer | Node.js, React, TypeScript | Backend | Cloud Engineering & API Development
 
 🔎 Passionate about solving real-world problems with robust, scalable software and clean code.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-astudillo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-astudillo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=marcos-astudillo&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-astudillo&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-astudillo&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
@@ -66,8 +61,33 @@ Currently exploring advanced backend engineering, cloud platforms, and modern fu
 - Performance Optimization
 - Agile Development (SCRUM)
 
+## 🏗 Architecture & Design Interests
+
+- Scalable system design
+- API architecture and service communication
+- Database schema design and optimization
+- Event-driven systems
+- Cloud-native application architecture
 
 ---
+## 💡 What I Build
+
+I design and build scalable applications focused on performance, clean architecture, and real-world usability.
+
+My work typically involves:
+
+- Scalable full-stack web applications
+- REST API design and backend systems
+- Cloud deployment and CI/CD pipelines
+- AI integrations and data-driven features
+
+## ⚙ Engineering Principles
+
+- Write maintainable and readable code
+- Prefer simple architectures over unnecessary complexity
+- Design APIs with clear contracts
+- Automate testing and CI/CD whenever possible
+- Focus on scalability and performance
 
 ## 🚀 Featured Projects
 
@@ -138,7 +158,7 @@ Currently exploring advanced backend engineering, cloud platforms, and modern fu
 ---
 
 ### 🤖 Experimental Projects & AI Integrations
-I regularly build and test small projects with **news APIs**, **OpenAI**, and **REST integrations** to sharpen skills in **language processing**, **data analysis**, and **user interaction**.
+I regularly build and test small projects with **third-party APIs**, **OpenAI**, and **REST integrations** to sharpen skills in **language processing**, **data analysis**, and **user interaction**.
 
 ---
 
