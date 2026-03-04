@@ -11,6 +11,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square)
 
+
 ---
 
 ## 🧠 About Me
@@ -37,7 +38,7 @@ Currently exploring advanced backend engineering, cloud platforms, and modern fu
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: TypeScript, JavaScript, Python, Java, SQL
-- **Frontend**: React, Angular, HTML5, CSS3, Bootstrap, Tailwind, jQuery  
+- **Frontend**: React, Next.js, TailwindCSS 
 - **Backend**: Node.js, Django, Flask, REST APIs 
 - **Databases**: PostgreSQL, MySQL, Firebase, SQLite, MongoDB  
 - **DevOps**: Azure, Docker, GitHub Actions, Jenkins, AWS  
