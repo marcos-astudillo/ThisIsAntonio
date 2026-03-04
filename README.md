@@ -1,7 +1,15 @@
 # 👋 Hi, I’m Marcos Antonio Astudillo C. (He/Him)
 
-💻 Full-Stack Developer | TypeScript, Node.js, React | Backend & Cloud Engineering 
-🔎 Passionate about solving real-world problems with robust, scalable software and clean code.  
+💻 Software Engineer | Full-Stack Developer | Node.js, React, TypeScript | Backend & Cloud Engineering  
+🔎 Passionate about solving real-world problems with robust, scalable software and clean code.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-astudillo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-astudillo&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square)
 
 ---
 
@@ -76,7 +84,7 @@ Currently exploring advanced backend engineering, cloud platforms, and modern fu
 
 ---
 
-### 🤖 AI & API Experiments  
+### 🤖 Experimental Projects & AI Integrations
 I regularly build and test small projects with **news APIs**, **OpenAI**, and **REST integrations** to sharpen skills in **language processing**, **data analysis**, and **user interaction**.
 
 ---
@@ -116,7 +124,3 @@ I regularly build and test small projects with **news APIs**, **OpenAI**, and **
 [![🐱 GitHub](https://img.shields.io/badge/GitHub-Marcos%20Astudillo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos-astudillo)
 [![🌎 Vanhack](https://img.shields.io/badge/Vanhack-Marcos%20Astudillo-orange?style=for-the-badge&logo=Vercel)](https://vanhack.com/vanhacker/b1b0dc1c-92a8-4687-8e3b-92da789a728c)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThisIsAntonio&show_icons=true&theme=tokyonight)  
-![Profile views](https://komarev.com/ghpvc/?username=ThisIsAntonio&label=Profile%20views&color=blueviolet&style=flat-square)
