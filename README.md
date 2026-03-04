@@ -1,15 +1,19 @@
 # 👋 Hi, I’m Marcos Antonio Astudillo C. (He/Him)
 
-💻 Full-Stack Developer | Python | TypeScript | Cloud & Data | Ottawa, Canada  
+💻 Full-Stack Developer | TypeScript, Node.js, React | Backend & Cloud Engineering 
 🔎 Passionate about solving real-world problems with robust, scalable software and clean code.  
 
 ---
 
 ## 🧠 About Me
 
-I’m a software developer with strong roots in both **frontend and backend development**, specializing in **Python, JavaScript/TypeScript, SQL, and C#**. With experience in **DevOps**, **cloud services (Azure, Firebase, AWS)**, and **database architecture**, I thrive in Agile teams where collaboration, testing, and performance matter.
+I’m a Full-Stack Software Developer specialized in building scalable web applications using TypeScript, Node.js, React, and modern cloud technologies.
 
-In my free time, I experiment with **AI APIs**, explore new frameworks, and build tools to boost productivity, communication, and learning.
+My experience includes backend API development, database design, DevOps workflows, and building real-world software solutions using Agile practices.
+
+I enjoy solving complex problems, improving system performance, and designing clean, maintainable architectures.
+
+Currently exploring advanced backend engineering, cloud platforms, and modern full-stack architectures.
 
 ---
 ## 🧰 Tech & Project Badges
@@ -24,9 +28,9 @@ In my free time, I experiment with **AI APIs**, explore new frameworks, and buil
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, JavaScript/TypeScript, Java, C#, SQL, Smalltalk, PL/SQL  
+- **Languages**: TypeScript, JavaScript, Python, Java, SQL
 - **Frontend**: React, Angular, HTML5, CSS3, Bootstrap, Tailwind, jQuery  
-- **Backend**: Node.js, Django, Flask, .NET, REST APIs  
+- **Backend**: Node.js, Django, Flask, REST APIs 
 - **Databases**: PostgreSQL, MySQL, Firebase, SQLite, MongoDB  
 - **DevOps**: Azure, Docker, GitHub Actions, Jenkins, AWS  
 - **Testing**: Vitest, xUnit, Selenium, QA Automation  
